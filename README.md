@@ -1,6 +1,6 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm Aminul Hoque
 
-![Banner](https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile!)
+![Banner](https://your-banner-image-link.png)
 
 I'm a passionate Frontend Web Developer focused on building responsive, visually appealing, and user-friendly web applications. My toolkit includes:
 
@@ -26,8 +26,8 @@ I'm driven by the challenge of turning complex problems into simple, beautiful, 
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aminulhoque&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulhoque&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </div>
 
 ---
@@ -36,6 +36,4 @@ I'm driven by the challenge of turning complex problems into simple, beautiful, 
 
 - [LinkedIn](https://linkedin.com/in/your-linkedin)
 - [Portfolio](https://your-portfolio-link.com)
-
----
 
