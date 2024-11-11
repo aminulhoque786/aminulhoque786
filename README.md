@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aminulhoque12321@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ kazi-aminul-haque-a519572ab](www.linkedin.com/in/ kazi-aminul-haque-a519572ab)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
