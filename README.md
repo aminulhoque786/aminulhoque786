@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm kazi aminul haque</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminulhoque786&label=Profile%20views&color=0e75b6&style=flat" alt="aminulhoque786" /> </p>
+<p align="left"> <img src="https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif" /> </p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminulhoque786" alt="aminulhoque786" /></a> </p>
 
 - 🔭 I’m currently learning **Web development**
 
